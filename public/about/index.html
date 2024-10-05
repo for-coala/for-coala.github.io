@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head><title>About &ndash; ʕ•ᴥ•ʔ For-CoaLa ANR project</title>
+<meta name="description" content="A French research project funded by [ANR](https://anr.fr/)">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8"/>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<link rel="stylesheet" href="https://for-coala.github.io/css/palettes/base16-dark.css">
+<link rel="stylesheet" href="https://for-coala.github.io/css/risotto.css">
+<link rel="stylesheet" href="https://for-coala.github.io/css/custom.css">
+
+
+<link rel="icon" href="https://for-coala.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="https://for-coala.github.io/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://for-coala.github.io/favicon-16x16.png">
+<link rel="apple-touch-icon" href="https://for-coala.github.io/apple-touch-icon.png">
+<link rel="manifest" href="https://for-coala.github.io/site.webmanifest">
+
+
+
+</head>
+
+    <body>
+        <div class="page">
+
+            <header class="page__header"><nav class="page__nav main-nav">
+    <ul>
+      <li class="nomarker"><h1 class="page__logo"><a href="https://for-coala.github.io/" class="page__logo-inner">ʕ•ᴥ•ʔ For-CoaLa ANR project</a></h1></li>
+    
+    
+    <li class="main-nav__item"><a class="nav-main-item active" href="https://for-coala.github.io/about/" title="">About</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://for-coala.github.io/jobs/" title="">jobs</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://for-coala.github.io/publications/" title="">publications</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://for-coala.github.io/post/" title="Posts">Posts</a></li>
+    
+    </ul>
+</nav>
+
+</header>
+
+            <section class="page__body">
+    <header class="content__header">
+        <h1>About</h1>
+    </header>
+    <div class="content__body">
+        <p><a href="">Full PDF proposal</a></p>
+<h2 id="context">Context</h2>
+<p>Large distributed software systems (applications or infrastructures) are now ubiquitous, with component-based systems (e.g., service-oriented architectures or microservices) offering a convenient way to structure large systems, in particular distributed systems deployed in the Cloud, in the core, or at the edge of the network. Indeed, isolating functionalities in components and building systems through composition greatly enhances the adaptability and scalability of systems, two important requirements for many organizations.</p>
+<p>However, the advantages of distributed architectures come at the price of increased complexity and technical challenges related to observability, coordination, maintenance, etc. A set of operations denoted as DevOps &mdash; i.e. operations handled somewhere in between the developer and the machine administrator &ndash; includes notably the system configurations and reconfigurations that are required to achieve adaptability. These operations include the initial and dynamic changes that may occur on a distributed service-oriented software architecture: adding or removing services, connecting or disconnecting services, and changing some parameters or the internal behavior of services. They may be required to handle various kinds of dynamic scenarios such as fault tolerance, scalability, software updates, various optimizations, etc.</p>
+<p>Such changes may lead to faults.</p>
+<ul>
+<li><a href="https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/">https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/</a></li>
+<li><a href="https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/">https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/</a></li>
+</ul>
+<h2 id="motivation">Motivation</h2>
+<p>On the one hand, many configuration tools and languages exist in the DevOps community, some of them being specific to the provisioning of resources in Cloud providers, packaging problems, containerized deployments, configuration management of applications or infrastructures, etc. Such languages are often referred to as \emph{Infrastructure-as-Code} (IaC for short). IaC languages offer easier constructs than low-level scripts to facilitate software engineering properties such as composition and reuse. The main advantage of these tools is their full integration and adoption in the DevOps community. Their disadvantage is they lack both formal and textual specifications. Moreover, their contours are blurred. On the other hand, many initiatives have been studied in academia to contribute to the deployment, configuration, and reconfiguration of distributed software~\cite{CHL2023:CSUR}, bringing improvements such as expressivity, speed, safety, etc. Many come with precise and sometimes formal definitions. However, they lack the breadth of the mainstream DevOps tools.</p>
+<h2 id="research-problem-and-project-objectives">Research problem and project objectives</h2>
+<p>The goal of For-CoaLa is twofold: (1) understand and bridge the gap between a popular tool from the DevOps community and a tool from academia; (2) improve the understanding of these languages based on mechanized formal semantics and develop verified semantic-preserving cross-language transformations. The outcomes of the project will be two open source formally certified configuration languages, their execution engine, and a verified translation tool.</p>
+<ul>
+<li>From academia we choose <code>Concerto</code></li>
+<li>From the industry tool perspective, we chose <a href="https://www.ansible.com"><code>Ansible</code></a>.</li>
+</ul>
+<p><code>Ansible</code> is currently one of the most widely used tools, probably because of its very wide spectrum (from low-level scripting to high-level modular and compositional features) and low requirements for installation (it is agentless unlike \puppet, another popular tool). Second, an extensive set of <code>Ansible</code> playbooks (i.e. <code>Ansible</code> programs) and roles (i.e., a set of programs to configure a given application or system) are publicly available online and can be leveraged in \projectname. Third, <code>Concerto</code> and <code>Ansible</code> have already been compared and share common aspects that will facilitate a cross-language transformation. The research challenge is to identify and formalize the subset of <code>Ansible</code>, so that it is sufficiently powerful to answer the needs of companies while keeping the formalization tasks doable within the For-CoaLa project&rsquo;s timeframe.</p>
+
+    </div>
+    <footer class="content__footer"></footer>
+
+            </section>
+
+            <section class="page__aside">
+                <div class="aside__about">
+<div class="aside__about">
+    
+    
+<h1 class="about__title">ʕ•ᴥ•ʔ For-CoaLa</h1>
+<p class="about__description">A French research project funded by <a href="https://anr.fr/">ANR</a></p>
+</div>
+
+
+<ul class="aside__social-links">
+    
+    <li>
+        <a href="https://github.com/for-coala" rel="me" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="mailto:helene.coullon@imt-atlantique.fr" rel="me" aria-label="Email" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="https://orcid.org/0000-0003-2573-2147" rel="me" aria-label="ORCID" title="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+</ul>
+</div>
+                <hr>
+                <div class="aside__content">
+    <p>Building formally verified IaC languages!</p>
+    
+        <p>
+            By Hélène Coullon and Frédéric Loulergue, 
+            2024-10-05
+        </p>
+    
+
+    
+
+                </div>
+            </section>
+
+            <footer class="page__footer"><p>
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+      
+    
+      
+    
+      
+    
+    
+    
+      
+      
+          
+            
+            
+                <br/><span class="active">$ echo $LANG<br/><b></b></span><br/>
+
+            
+          
+      
+    
+</p>
+<br /><br />
+<p class="copyright">© <a href="https://joeroe.io">Joe Roe</a> &amp; <a href="https://github.com/joeroe/risotto/graphs/contributors">risotto contributors</a>.</p>
+<p class="advertisement">Powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/joeroe/risotto">risotto</a>.</p>
+</footer>
+
+        </div>
+    </body>
+
+</html>
