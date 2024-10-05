@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/hcoullon/Documents/RESEARCH/formal/ANR-FOR-COALA/anr-for-coala.github.io",
+	"sourceRoot": "/home/hcoullon/Documents/website/hugo/for-coala",
 	"sources": [
 		"themes/hugo-theme-cactus/assets/scss/style.scss",
 		"themes/hugo-theme-cactus/assets/scss/_variables.scss",
