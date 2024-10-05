@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ʕ•ᴥ•ʔ For-CoaLa ANR project</title>
+    <link>https://risotto.joeroe.io/</link>
+    <description>Recent content on ʕ•ᴥ•ʔ For-CoaLa ANR project</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© [Joe Roe](https://joeroe.io) &amp; [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors).</copyright>
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://risotto.joeroe.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://risotto.joeroe.io/about/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://risotto.joeroe.io/about/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;&#34;&gt;Full PDF proposal&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;Large distributed software systems (applications or infrastructures) are now ubiquitous, with component-based systems (e.g., service-oriented architectures or microservices) offering a convenient way to structure large systems, in particular distributed systems deployed in the Cloud, in the core, or at the edge of the network. Indeed, isolating functionalities in components and building systems through composition greatly enhances the adaptability and scalability of systems, two important requirements for many organizations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jobs</title>
+      <link>https://risotto.joeroe.io/jobs/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://risotto.joeroe.io/jobs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://risotto.joeroe.io/publications/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://risotto.joeroe.io/publications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://risotto.joeroe.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://risotto.joeroe.io/archives/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
