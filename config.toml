@@ -1,6 +1,6 @@
 baseURL = "https://for-coala.github.io/"
 theme = "risotto"
-title = "ʕ•ᴥ•ʔ For-CoaLa ANR project"
+title = "4-ʕ•ᴥ•ʔ For-CoaLa ANR project"
 author = "Hélène Coullon"
 copyright = "© [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
 paginate = 3
@@ -22,7 +22,7 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "ʕ•ᴥ•ʔ For-CoaLa"
+title = "4-ʕ•ᴥ•ʔ For-CoaLa"
 description = "A French research project funded by [ANR](https://anr.fr/)"
 # unicode/emoji logo:
 #logo = "🐨"

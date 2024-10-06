@@ -6,9 +6,9 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hélène Coullon and Frédéric Loulergue"
 +++
 
-[Full PDF proposal]()
+[Full PDF proposal](..//ANR_For_CoaLa_Phase_2.pdf)
 
-## Context
+## Context 
 
 Large distributed software systems (applications or infrastructures) are now ubiquitous, with component-based systems (e.g., service-oriented architectures or microservices) offering a convenient way to structure large systems, in particular distributed systems deployed in the Cloud, in the core, or at the edge of the network. Indeed, isolating functionalities in components and building systems through composition greatly enhances the adaptability and scalability of systems, two important requirements for many organizations.
 
