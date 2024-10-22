@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hélène Coullon and Frédéric Loulergue"
 +++
 
-[Full PDF proposal](..//ANR_For_CoaLa_Phase_2.pdf)
+[Full PDF proposal](../ANR_For_CoaLa_Phase_2.pdf)
 
 ## Context 
 

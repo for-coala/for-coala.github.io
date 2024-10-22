@@ -7,6 +7,7 @@ author = "Hélène Coullon and Frédéric Loulergue"
 +++
 
 - multiple Master1 and Master2 internship opportunities in Nantes and Orléans
+    + [see the internship offer](../internships_for_coala.pdf)
 - multiple PhD opportunities in Nantes
 - one postdoctoral position of 24 months in Orléans
 
