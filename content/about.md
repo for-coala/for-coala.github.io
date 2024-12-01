@@ -30,3 +30,5 @@ The goal of For-CoaLa is twofold: (1) understand and bridge the gap between a po
 - From the industry tool perspective, we chose [`Ansible`](https://www.ansible.com). 
 
 `Ansible` is currently one of the most widely used tools, probably because of its very wide spectrum (from low-level scripting to high-level modular and compositional features) and low requirements for installation (it is agentless unlike \puppet, another popular tool). Second, an extensive set of `Ansible` playbooks (i.e. `Ansible` programs) and roles (i.e., a set of programs to configure a given application or system) are publicly available online and can be leveraged in \projectname. Third, `Concerto` and `Ansible` have already been compared and share common aspects that will facilitate a cross-language transformation. The research challenge is to identify and formalize the subset of `Ansible`, so that it is sufficiently powerful to answer the needs of companies while keeping the formalization tasks doable within the For-CoaLa project's timeframe. 
+
+![image](../for-coala-full.png)
