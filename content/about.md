@@ -12,7 +12,7 @@ Large distributed software systems (applications or infrastructures) are now ubi
 
 However, the advantages of distributed architectures come at the price of increased complexity and technical challenges related to observability, coordination, maintenance, etc. A set of operations denoted as DevOps --- i.e. operations handled somewhere in between the developer and the machine administrator -- includes notably the system configurations and reconfigurations that are required to achieve adaptability. These operations include the initial and dynamic changes that may occur on a distributed service-oriented software architecture: adding or removing services, connecting or disconnecting services, and changing some parameters or the internal behavior of services. They may be required to handle various kinds of dynamic scenarios such as fault tolerance, scalability, software updates, various optimizations, etc.
 
-![image](../for-coala-ex8.png)
+![image](../for-coala-ex.png)
 
 Such changes may lead to faults. 
 
