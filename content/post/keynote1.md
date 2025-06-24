@@ -1,9 +1,21 @@
 +++
+author = "Hélène"
 title = "Keynote of Hélène Coullon at DisCoTec 2025"
-date = 2025-06-23
+date = "2025-06-23"
+description = "blabla"
+tags = [
+    "keynote",
+]
+categories = [
+    "talks",
+]
+series = ["Keynotes"]
+aliases = ["bla"]
+toc = true
 +++
 
 Hélène (coordinator of the project) has given the 18th of June a keynote at [DisCoTec 2025](https://www.discotec.org/2025/invited)
+<!--more-->
 
 ## Title
 
