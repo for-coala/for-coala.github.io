@@ -1,8 +1,8 @@
 +++
 author = "Hélène"
-title = "Keynote of Hélène Coullon at DisCoTec 2025"
+title = "Keynote of Hélène Coullon at DisCoTec 2025, Lille, France"
 date = "2025-06-23"
-description = "blabla"
+description = "Keynote of Hélène Coullon at DisCoTec 2025"
 tags = [
     "keynote",
 ]
@@ -10,7 +10,6 @@ categories = [
     "talks",
 ]
 series = ["Keynotes"]
-aliases = ["bla"]
 toc = true
 +++
 
