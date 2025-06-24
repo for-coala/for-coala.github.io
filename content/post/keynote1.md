@@ -14,6 +14,9 @@ toc = true
 +++
 
 Hélène (coordinator of the project) has given the 18th of June a keynote at [DisCoTec 2025](https://www.discotec.org/2025/invited)
+
+Slide are available [here](../../discotec.pdf)!
+
 <!--more-->
 
 ## Title
