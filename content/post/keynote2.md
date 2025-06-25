@@ -12,12 +12,11 @@ categories = [
 series = ["Keynotes"]
 toc = true
 +++
+<!--more-->
 
 Frédéric (partner of the project) has given the 18th of June a keynote at [GDR GPL 2025](https://gdrgpl2025.sciencesconf.org/resource/page/id/4) (in French)
 
 Slide are available [here](../../gdr.pdf)!
-
-<!--more-->
 
 ## Titre
 
