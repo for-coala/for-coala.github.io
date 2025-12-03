@@ -13,30 +13,35 @@ series = ["Membres"]
 toc = true
 +++
 <!--more-->
+I’m very happy to announce that I’m joining the **ANR For-CoaLa** project.
 
-Je suis très heureux d’annoncer que je rejoins le projet **ANR For-CoaLa**.
+This is a double announcement, meaning two things:
+- First, I’m now an **Associate Professor** at **Université d’Orléans**! It feels like coming home, since this is where I started my research career in 2017.
+- It’s also an opportunity to (once again) work with colleagues I’ve already had the chance to collaborate with:
+    - **Hélène Coullon**, with whom I have been working for several years on the **decentralization of reconfiguration mechanisms**, notably leading to the creation of [**Ballet**](https://zenodo.org/records/10472116), a cross-DevOps tool based on the [**Concerto**](https://arxiv.org/abs/2412.08233) **model**; and
+    - **Frédéric Loulergue**, with whom I worked on the **formalization** and **verification** of **algorithmic skeletons** in [**SyDPaCC**](https://sydpacc.github.io/).
 
-C’est une double nouvelle, qui signifie deux choses :
-- Tout d’abord, me voilà **maître de conférences** à l’**Université d’Orléans** ! Un retour aux sources, puisque c’est ici que j’ai débuté ma carrière de chercheur en 2017.
-- Mais c’est aussi l’occasion de travailler (à nouveau) avec des collègues avec qui j’ai déjà pu collaborer :
-    - **Hélène Coullon**, avec qui nous travaillons depuis plusieurs années sur la **décentralisation de mécanismes de reconfiguration**, menant notamment à la création de [**Ballet**](https://zenodo.org/records/10472116), un outil cross-DevOps basé sur le **modèle** [**Concerto**](https://arxiv.org/abs/2412.08233) ; et
-    - **Frédéric Loulergue**, avec qui j’ai travaillé sur la **formalisation** et la **vérification** de **squelettes algorithmiques** dans [**SyDPaCC**](https://sydpacc.github.io/).
+For-CoaLa is therefore, for me, both a continuation and a new step in my career.
 
-For-CoaLa est donc, pour moi, à la fois une continuité et une nouvelle étape dans ma carrière.
+I have a broad scientific background:
+- **MDE** (Model-Driven Engineering),
+- **HPC** (High-Performance Computing),
+- **Infrastructure as Code (IaC)** and DevOps tooling.
 
-J’ai la chance d’avoir un background scientifique assez large :
-- **IDM / MDE** (Ingénierie dirigée par les modèles),
-- **HPC** (calcul haute performance),
-- **Infrastructure as Code (IaC)** et outillage DevOps.
+This breadth will bring to the project a bridge between very practical deployment concerns and more fundamental approaches, such as proofs about the semantics of **reconfiguration languages**.
 
-Cette transversalité apportera au projet un lien entre des besoins très concrets autour du déploiement et des approches plus fondamentales, telles que les preuves autour de la sémantique des **langages de reconfiguration**.
+This expertise also allows me to take on another role within the project: co-supervising **Olivia Proust**, a PhD candidate working on **formal verification** for **configuration management languages**.
 
-Cette expertise me permet également de prendre un autre rôle dans le projet : co-encadrer **Olivia Proust**, candidate au doctorat sur un sujet de thèse autour de la **vérification formelle** de **langages de gestion de configuration**.
+Alongside this, I also co-supervise **Haitam El Hayani** (PhD student in Rennes) on the **extension of Infrastructure as Code (IaC) languages** within the **Taranis** project of **PEPR Cloud**. We work in collaboration with Université de Rennes on enhancing IaC capabilities and improving their integration with modern cloud deployment practices.
 
-Parmi mes activités annexes, je co-encadre aussi **Haitam El Hayani** (doctorant à Rennes) sur l’**extension des langages d’Infrastructure as Code (IaC)** dans le projet **Taranis** du **PEPR Cloud**. Nous travaillons en collaboration avec l’Université de Rennes sur l’enrichissement des capacités de l’IaC et sur l’amélioration de leur intégration avec les pratiques modernes de déploiement dans le cloud.
+These two topics complement each other very naturally: on the one hand, aiming for formal guarantees in configuration management; and on the other, increasing the expressiveness and integration quality of IaC languages.
 
-Ces deux thématiques se complètent très naturellement : d’un côté, viser des garanties formelles sur la gestion de configuration ; et de l’autre, augmenter l’expressivité et la qualité d’intégration des langages IaC.
+I also hold responsibilities within the GDR GPL, recently renamed **SciLog**. In particular, I co-lead the **SyLA** working group, alongside [Rabéa Ameur Boulifa](https://www.telecom-paris.fr/rabea-ameur-boulifa) and [Simon Bliudze](https://pro.univ-lille.fr/simon-bliudze), and I also co-lead the [**ADDYCT**](https://telecom-paris.hal.science/hal-05154399v1) challenge (ADaptation DYnamique et ConTinue), alongside [Jannik Laval](https://www.disp-lab.fr/fr/user/46).
 
-Aussi, j’ai des responsabilités dans le GDR GPL, nouvellement renommé **SciLog**. Je suis en effet porteur du GT **SyLA**, aux côtés de [Rabéa Ameur Boulifa](https://www.telecom-paris.fr/rabea-ameur-boulifa) et [Simon Bliudze](https://pro.univ-lille.fr/simon-bliudze), ainsi que porteur du défi [**ADDYCT**](https://telecom-paris.hal.science/hal-05154399v1) (ADaptation DYnamique et ConTinue), aux côtés de [Jannik Laval](https://pro.univ-lille.fr/simon-bliudze).
+You can find more information on [my website](https://jolanphilippe.github.io/), or by contacting me directly ;)
 
-Vous trouverez plus d’informations sur [ma page web](https://jolanphilippe.github.io/), ou en me contactant directement ;)
+
+
+
+
+
