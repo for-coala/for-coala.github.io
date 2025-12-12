@@ -18,7 +18,7 @@ It is with pleasure that I join the **ANR For-Coala** project as a **PhD student
 
 After a bachelor's degree at Université d'Orléans, and a master's degree at Université de Rennes, I'm very happy to pursue my academic journey at the IMT Atlantique of Nantes with this opportunity. I will be co-directed by Helene Coullon and Frederic Loulergue, and co-supervised by Jolan Philippe too. 
 
-My thesis subject will be on the **Formalization and verification of Infrastructure-as-Code**, but more precisely on tools like **Ansible**. *(For a quick presentation, you can find presentations slides [here](../../static/seminar-phd-thesis-presentation.pdf)).*
+My thesis subject will be on the **Formalization and verification of Infrastructure-as-Code**, but more precisely on tools like **Ansible**. *(For a quick presentation, you can find presentations slides [here](../../seminar-phd-thesis-presentation.pdf)).*
 
 **Formalization and verification** are not unknown to me. During my bachelor's degree, I had the opportunity to do an internship in the LMV team at the LIFO (Laboratoire d'Informatique Fondamentale d'Orléans - Fundamental Computer Science Laboratory of Orléans), supervised by Frederic Loulergue on a subject of Formalization and Verification of BSML on Why3. (WhyBSML)
 
