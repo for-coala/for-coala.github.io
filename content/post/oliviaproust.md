@@ -12,6 +12,7 @@ categories = [
 series = ["Membres"]
 toc = true
 +++
+<!--more-->
 
 It is with pleasure that I join the **ANR For-Coala** project as a **PhD student**. 
 
