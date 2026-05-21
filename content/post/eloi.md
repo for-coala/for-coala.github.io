@@ -27,6 +27,6 @@ While configuration management deals with the reconciliation of machine states w
 configuration description languages focus on giving the right programming constructs to users in order to represent any kind of configuration data, and offer mechanisms for their validation, transformation, reuse, etc.
 They can be seen as an intermediate programming layer between users editing configuration code and the tools that effectively applies configurations to target systems.
 
-This prior background on configuration language semantics coupled with knowledge on distributed systems will certainly be beneficial to the For-CoaLa project.
+This prior apprehension of configuration languages semantics coupled with a background on distributed systems will certainly be beneficial to the For-CoaLa project.
 Feel free to contact me by email at eloi.perdereau@univ-orleans.fr for any related discussions.
 
