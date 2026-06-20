@@ -6,12 +6,12 @@ aliases = ["publications"]
 author = "Hélène Coullon and Frédéric Loulergue"
 +++
 
-# International Conferences
+## International Conferences
 
 1. *Frédéric Loulergue*, *Mohamed Haady Tiemtore*, **Semantics of a Subset of Puppet 4.8 Mechanized in Why3**. In International Symposium on Leveraging Applications of Formal Methods, Verification, and Validation (ISoLa), LNCS, Springer, 2026, to appear.
 
 
-# Previous publications 
+## Previous publications 
 
 We start the project from the following contributions:
 
