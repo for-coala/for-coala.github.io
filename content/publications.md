@@ -6,6 +6,13 @@ aliases = ["publications"]
 author = "Hélène Coullon and Frédéric Loulergue"
 +++
 
+# International Conferences
+
+1. *Frédéric Loulergue*, *Mohamed Haady Tiemtore*, **Semantics of a Subset of Puppet 4.8 Mechanized in Why3**. In International Symposium on Leveraging Applications of Formal Methods, Verification, and Validation (ISoLa), LNCS, Springer, 2026, to appear.
+
+
+# Previous publications 
+
 We start the project from the following contributions:
 
 * *Farid Arfi*, *Hélène Coullon*, *Frédéric Loulergue*, *Jolan Philippe*, *Simon Robillard*. [**An Overview of the Decentralized Reconfiguration Language Concerto-D through its Maude Formalization**](). In Interaction and Concurrency Experiences 2024 (ICE'24) hosted at DisCoTec 2024, Groningen, The Netherlands.
