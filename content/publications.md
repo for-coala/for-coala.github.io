@@ -8,7 +8,7 @@ author = "Hélène Coullon and Frédéric Loulergue"
 
 ## International Conferences
 
-1. *Frédéric Loulergue*, *Mohamed Haady Tiemtore*, [**Semantics of a Subset of Puppet 4.8 Mechanized in Why3**][https://link.springer.com/chapter/10.1007/978-3-032-40124-3_3]. In International Symposium on Leveraging Applications of Formal Methods, Verification, and Validation (ISoLa), LNCS, Springer, 2026.
+1. *Frédéric Loulergue*, *Mohamed Haady Tiemtore*, [**Semantics of a Subset of Puppet 4.8 Mechanized in Why3**](https://link.springer.com/chapter/10.1007/978-3-032-40124-3_3). In International Symposium on Leveraging Applications of Formal Methods, Verification, and Validation (ISoLa), LNCS, Springer, 2026.
 
 ## International Workshops
 
