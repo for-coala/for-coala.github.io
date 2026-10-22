@@ -8,14 +8,17 @@ author = "Hélène Coullon and Frédéric Loulergue"
 
 ## International Conferences
 
-1. *Frédéric Loulergue*, *Mohamed Haady Tiemtore*, **Semantics of a Subset of Puppet 4.8 Mechanized in Why3**. In International Symposium on Leveraging Applications of Formal Methods, Verification, and Validation (ISoLa), LNCS, Springer, 2026, to appear.
+1. *Frédéric Loulergue*, *Mohamed Haady Tiemtore*, [**Semantics of a Subset of Puppet 4.8 Mechanized in Why3**][https://link.springer.com/chapter/10.1007/978-3-032-40124-3_3]. In International Symposium on Leveraging Applications of Formal Methods, Verification, and Validation (ISoLa), LNCS, Springer, 2026.
 
+## International Workshops
 
-## Previous publications 
+1. *Olivia Proust*, *Hélène Coullon*, *Jolan Philippe*, *Frédéric Loulergue*, [**Scopeannon: A Static Analyzer of Ansible’s Scope Ambiguities**](https://dl.acm.org/doi/10.1145/3844136.3845868). In Proceedings of the 3rd International Workshop on Configuration Languages (ConfLang '26) hosted at ASE 2026, Munich, Germany.
+
+## Previous publications
 
 We start the project from the following contributions:
 
-* *Farid Arfi*, *Hélène Coullon*, *Frédéric Loulergue*, *Jolan Philippe*, *Simon Robillard*. [**An Overview of the Decentralized Reconfiguration Language Concerto-D through its Maude Formalization**](). In Interaction and Concurrency Experiences 2024 (ICE'24) hosted at DisCoTec 2024, Groningen, The Netherlands.
+* *Farid Arfi*, *Hélène Coullon*, *Frédéric Loulergue*, *Jolan Philippe*, *Simon Robillard*. [**An Overview of the Decentralized Reconfiguration Language Concerto-D through its Maude Formalization**](https://inria.hal.science/hal-04572043/). In Interaction and Concurrency Experiences 2024 (ICE'24) hosted at DisCoTec 2024, Groningen, The Netherlands.
 
 * *Jolan Philippe*, *Antoine Omond*, *Hélène Coullon*, *Charles Prud'homme*, *Issam Rais*. [**Fast Choreography of Cross-DevOps Reconfiguration with Ballet: A Multi-Site OpenStack Case Study**](https://hal.science/hal-04457484). In the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), March 2024, Finland. 
 
