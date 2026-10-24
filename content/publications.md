@@ -15,6 +15,11 @@ author = "Hélène Coullon and Frédéric Loulergue"
 
 1. *Olivia Proust*, *Hélène Coullon*, *Jolan Philippe*, *Frédéric Loulergue*, [**Scopeannon: A Static Analyzer of Ansible’s Scope Ambiguities**](https://dl.acm.org/doi/10.1145/3844136.3845868). In Proceedings of the 3rd International Workshop on Configuration Languages (ConfLang '26) hosted at ASE 2026, Munich, Germany.
 
+## Software 
+
+1. *Frédéric Loulergue*, *Mohamed Haady Tiemtore*, **MechaPuppet: a semantics and a verified compiler for a Subset of Puppet in Why3**, version 0.5, Zenodo, 2026, [![DOI Link: https://doi.org/10.5281/zenodo.20035663](https://zenodo.org/badge/DOI/10.5281/zenodo.20035663.svg)](https://doi.org/10.5281/zenodo.20035663)
+
+
 ## Previous publications
 
 We start the project from the following contributions:
