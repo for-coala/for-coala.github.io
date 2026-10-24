@@ -17,7 +17,7 @@ author = "Hélène Coullon and Frédéric Loulergue"
 
 ## Software 
 
-1. *Frédéric Loulergue*, *Mohamed Haady Tiemtore*, **MechaPuppet: a semantics and a verified compiler for a Subset of Puppet in Why3**, version 0.5, Zenodo, 2026, [![DOI Link: https://doi.org/10.5281/zenodo.20035663](https://zenodo.org/badge/DOI/10.5281/zenodo.20035663.svg)](https://doi.org/10.5281/zenodo.20035663)
+1. *Frédéric Loulergue*, *Mohamed Haady Tiemtore*, **MechaPuppet: a semantics and a verified compiler for a Subset of Puppet in Why3**, version 0.5, Zenodo, 2026 [![DOI Link: https://doi.org/10.5281/zenodo.20035663](https://zenodo.org/badge/DOI/10.5281/zenodo.20035663.svg)](https://doi.org/10.5281/zenodo.20035663)
 
 
 ## Previous publications
