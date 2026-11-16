@@ -23,7 +23,7 @@ Practitioners can use this information to identify unexpected scope selection or
 
 This work is published as a short paper in the workshop's proceedings.
 
-* *Olivia Proust*, *Hélène Coullon*, *Jolan Philippe*, *Frédéric Loulergue*, **Scopeannon: A Static Analyzer of Ansible’s Scope Ambiguities**. In Proceedings of the 3rd International Workshop on Configuration Languages (ConfLang '26), ACM, 2026. [doi](https://dl.acm.org/doi/10.1145/3844136.3845868), [PDF](../conflang26-scopeannon.pdf), [slides](../conflang26-scopeannon-slides.pdf).
+* *Olivia Proust*, *Hélène Coullon*, *Jolan Philippe*, *Frédéric Loulergue*, **Scopeannon: A Static Analyzer of Ansible’s Scope Ambiguities**. In Proceedings of the 3rd International Workshop on Configuration Languages (ConfLang '26) hosted at ASE 2026, Munich, Germany. [doi](https://dl.acm.org/doi/10.1145/3844136.3845868), [PDF](../conflang26-scopeannon.pdf), [slides](../conflang26-scopeannon-slides.pdf).
 
 ![Olivia at CONFLANG'26](../conflang26-olivia.jpeg)
 
