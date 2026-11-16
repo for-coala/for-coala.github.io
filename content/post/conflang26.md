@@ -18,7 +18,7 @@ The [CONFLANG'26 workshop](https://conf.researchr.org/home/ase-2026/conflang-202
 During this occasion, the For-CoaLa team was well represented. Two members assisted the workshop and gave talks presenting their work.
 
 Olivia presented her ongoing PhD work about the analysis of variable scopes in [Ansible](https://www.ansible.com).
-She exposed the ambiguities and peculiarities of Ansible's scope precedence, and presented her solution, Scopeannon, a static analysis tool that reports the scopes consulted when evaluating expressions in an Ansible playbook.
+She exposed some ambiguities and peculiarities of Ansible's scope precedence, like variables accessible outside their local structure or priority between two scopes with the same precedence. She presented her solution, Scopeannon, a static analysis tool that reports the scopes consulted when evaluating expressions in an Ansible playbook.
 Practitioners can use this information to identify unexpected scope selection or unintended variable overrides, hence augmenting the reliability of Ansible code.
 
 This work is published as a short paper in the workshop's proceedings.
@@ -30,7 +30,7 @@ This work is published as a short paper in the workshop's proceedings.
 
 Eloi gave two talks, presenting the work done during his past position at IMT Atlantique as part of the [Taranis project](https://taranis-cloud.fr/) of the [Cloud PEPR](https://pepr-cloud.fr/fr/projet-taranis/).
 The first presentation was about the CUE language. He exposed the interpretation and execution semantics of a fragment of CUE that retains the core of the language.
-Despite the fragment being minimal, it shows some non obvious behaviors regarding the interaction of references and unification.
+Despite the fragment being minimal, it shows some non-obvious behaviors regarding the interaction of references and unification.
 The second presentation concerned the provisioning engine [Terraform](https://terraform.io) and the problems that might occur during executions, simply due to the ordering of actions updating the state (Create, Update or Delete).
 The presented solution, BPlan, builds upon an operational semantics of Terraform executions.
 By defining LTL stability properties and verifying them with model-checking, BPlan is able to capture issues before the actual execution.

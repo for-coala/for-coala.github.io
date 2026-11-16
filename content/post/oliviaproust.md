@@ -22,6 +22,6 @@ My thesis subject will be on the **Formalization and verification of Infrastruct
 
 **Formalization and verification** are not unknown to me. During my bachelor's degree, I had the opportunity to do an internship in the LMV team at the LIFO (Laboratoire d'Informatique Fondamentale d'Orléans - Fundamental Computer Science Laboratory of Orléans), supervised by Frederic Loulergue on a subject of Formalization and Verification of BSML on Why3. (WhyBSML)
 
-Since I really liked this little first step in the researchal world, here I am, motivated to take full advantage of this PhD thesis. 
+Since I really liked this little first step in the research world, here I am, motivated to take full advantage of this PhD thesis. 
 
 For more information, you can contact me at olivia.proust@imt-atlantique.fr, (and soon on my future website... )
